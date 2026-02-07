@@ -1,0 +1,15 @@
+{
+  "name": "Joe Smith",
+  "age": 25,
+  "address": {
+    "building_street": "#12, James Corner",
+    "line2": "Brandon Street",
+    "city": "Rochdale",
+    "postcode": "L10AB"
+  },
+  "cars": [
+    "Honda",
+    "BMW",
+    "Mercedes"
+  ]
+}
